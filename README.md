@@ -21,7 +21,7 @@ SkillShare+ is a personal productivity dashboard to log learning sessions, track
 ## 🧪 Getting Started
 
 ```bash
-git clone https://github.com/your-username/skillshareplus.git
+git clone https://github.com/adro-bronto2/skillshareplus.git
 cd skillshareplus
 npm install
 npm run dev

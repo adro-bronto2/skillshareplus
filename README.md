@@ -2,6 +2,9 @@
 
 SkillShare+ is a personal productivity dashboard to log learning sessions, track time, view progress charts, write daily journals, and listen to focus music via Spotify. Built with Next.js, Tailwind CSS, and Recharts.
 
+📄 **Raw GitHub Documentation:**  
+[View README.md (Raw)](https://raw.githubusercontent.com/adro-bronto2/skillshareplus/main/README.md)
+
 ## 🚀 Features
 
 - 📚 Log daily learning sessions with topics, hours, and notes  
